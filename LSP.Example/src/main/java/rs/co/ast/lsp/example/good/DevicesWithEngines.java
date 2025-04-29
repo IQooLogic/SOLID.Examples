@@ -4,7 +4,7 @@ package rs.co.ast.lsp.example.good;
  *
  * @author IQooLogic
  */
-public class DevicesWithEngines {
+public class DevicesWithEngines extends TrasportationDevice {
 
     private Engine engine;
 
